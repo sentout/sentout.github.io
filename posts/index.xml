@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on wp&#39; First Blog</title>
+    <link>https://www.blog.github.io/posts/</link>
+    <description>Recent content in Posts on wp&#39; First Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Nov 2022 16:03:19 +0800</lastBuildDate><atom:link href="https://www.blog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog</title>
+      <link>https://www.blog.github.io/posts/first-blog/</link>
+      <pubDate>Thu, 24 Nov 2022 16:03:19 +0800</pubDate>
+      
+      <guid>https://www.blog.github.io/posts/first-blog/</guid>
+      <description>this is a blog, welcom to my blog
+fuck you or me? fuck you&amp;hellip;.</description>
+    </item>
+    
+  </channel>
+</rss>
