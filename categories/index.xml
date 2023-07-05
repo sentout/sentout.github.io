@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Demo for Hugo</title>
-    <link>https://github.com/sentout/sentout.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Demo for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2023 16:05:09 +0800</lastBuildDate><atom:link href="https://github.com/sentout/sentout.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jul 2023 16:05:09 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tech</title>
-      <link>https://github.com/sentout/sentout.github.io/categories/tech/</link>
+      <link>/categories/tech/</link>
       <pubDate>Wed, 05 Jul 2023 16:05:09 +0800</pubDate>
       
-      <guid>https://github.com/sentout/sentout.github.io/categories/tech/</guid>
+      <guid>/categories/tech/</guid>
       <description></description>
     </item>
     
