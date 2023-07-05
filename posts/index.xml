@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Demo for Hugo</title>
-    <link>https://github.com/sentout/sentout.github.io.git/posts/</link>
+    <link>https://github.com/sentout/sentout.github.io/posts/</link>
     <description>Recent content in Posts on Demo for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2023 16:05:09 +0800</lastBuildDate><atom:link href="https://github.com/sentout/sentout.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jul 2023 16:05:09 +0800</lastBuildDate><atom:link href="https://github.com/sentout/sentout.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://github.com/sentout/sentout.github.io.git/posts/first/</link>
+      <link>https://github.com/sentout/sentout.github.io/posts/first/</link>
       <pubDate>Wed, 05 Jul 2023 16:05:09 +0800</pubDate>
       
-      <guid>https://github.com/sentout/sentout.github.io.git/posts/first/</guid>
+      <guid>https://github.com/sentout/sentout.github.io/posts/first/</guid>
       <description>This is a heading one This is a heading two This is a paragraph.
 幻途 无故平地起波澜，前路迢迢道道弯。
 日月星辰随心境，幻途漫漫任风湮。
@@ -22,10 +22,10 @@
     
     <item>
       <title>Second post</title>
-      <link>https://github.com/sentout/sentout.github.io.git/posts/second/</link>
+      <link>https://github.com/sentout/sentout.github.io/posts/second/</link>
       <pubDate>Wed, 05 Jul 2023 16:05:09 +0800</pubDate>
       
-      <guid>https://github.com/sentout/sentout.github.io.git/posts/second/</guid>
+      <guid>https://github.com/sentout/sentout.github.io/posts/second/</guid>
       <description>This is second post.</description>
     </item>
     
