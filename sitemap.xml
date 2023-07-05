@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://github.com/sentout/sentout.github.io.git/categories/</loc>
     <lastmod>2023-07-05T16:05:09+08:00</lastmod>
   </url><url>
-    <loc>/tags/css/</loc>
+    <loc>https://github.com/sentout/sentout.github.io.git/tags/css/</loc>
     <lastmod>2023-07-05T16:05:09+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://github.com/sentout/sentout.github.io.git/</loc>
     <lastmod>2023-07-05T16:05:09+08:00</lastmod>
   </url><url>
-    <loc>/posts/first/</loc>
+    <loc>https://github.com/sentout/sentout.github.io.git/posts/first/</loc>
     <lastmod>2023-07-05T16:05:09+08:00</lastmod>
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>https://github.com/sentout/sentout.github.io.git/tags/html/</loc>
     <lastmod>2023-07-05T16:05:09+08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://github.com/sentout/sentout.github.io.git/posts/</loc>
     <lastmod>2023-07-05T16:05:09+08:00</lastmod>
   </url><url>
-    <loc>/posts/second/</loc>
+    <loc>https://github.com/sentout/sentout.github.io.git/posts/second/</loc>
     <lastmod>2023-07-05T16:05:09+08:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://github.com/sentout/sentout.github.io.git/tags/</loc>
     <lastmod>2023-07-05T16:05:09+08:00</lastmod>
   </url><url>
-    <loc>/categories/tech/</loc>
+    <loc>https://github.com/sentout/sentout.github.io.git/categories/tech/</loc>
     <lastmod>2023-07-05T16:05:09+08:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://github.com/sentout/sentout.github.io.git/archives/</loc>
   </url>
 </urlset>
