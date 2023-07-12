@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>js on wp&#39;Blog</title>
+    <link>https://sentout.github.io/tags/js/</link>
+    <description>Recent content in js on wp&#39;Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Jul 2023 16:05:09 +0800</lastBuildDate><atom:link href="https://sentout.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>代码段高亮显示</title>
+      <link>https://sentout.github.io/posts/second/</link>
+      <pubDate>Wed, 05 Jul 2023 16:05:09 +0800</pubDate>
+      
+      <guid>https://sentout.github.io/posts/second/</guid>
+      <description>一级标题 二级标题 行号 1 2 3 fn main(){println!(&amp;#34;Hello, world!&amp;#34;);} 1 2 3 4</description>
+    </item>
+    
+  </channel>
+</rss>

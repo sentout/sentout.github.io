@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on 绝版流年</title>
+    <title>Tags on wp&#39;Blog</title>
     <link>https://sentout.github.io/tags/</link>
-    <description>Recent content in Tags on 绝版流年</description>
+    <description>Recent content in Tags on wp&#39;Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2023 16:05:09 +0800</lastBuildDate><atom:link href="https://sentout.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jul 2023 21:59:25 +0800</lastBuildDate><atom:link href="https://sentout.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>https://sentout.github.io/tags/css/</link>
-      <pubDate>Wed, 05 Jul 2023 16:05:09 +0800</pubDate>
+      <title>四柱八字</title>
+      <link>https://sentout.github.io/tags/%E5%9B%9B%E6%9F%B1%E5%85%AB%E5%AD%97/</link>
+      <pubDate>Tue, 11 Jul 2023 21:59:25 +0800</pubDate>
       
-      <guid>https://sentout.github.io/tags/css/</guid>
+      <guid>https://sentout.github.io/tags/%E5%9B%9B%E6%9F%B1%E5%85%AB%E5%AD%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>四柱命例</title>
+      <link>https://sentout.github.io/tags/%E5%9B%9B%E6%9F%B1%E5%91%BD%E4%BE%8B/</link>
+      <pubDate>Tue, 11 Jul 2023 21:59:25 +0800</pubDate>
+      
+      <guid>https://sentout.github.io/tags/%E5%9B%9B%E6%9F%B1%E5%91%BD%E4%BE%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>宋词</title>
+      <link>https://sentout.github.io/tags/%E5%AE%8B%E8%AF%8D/</link>
+      <pubDate>Tue, 11 Jul 2023 21:16:25 +0800</pubDate>
+      
+      <guid>https://sentout.github.io/tags/%E5%AE%8B%E8%AF%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>诗歌</title>
+      <link>https://sentout.github.io/tags/%E8%AF%97%E6%AD%8C/</link>
+      <pubDate>Tue, 11 Jul 2023 21:16:25 +0800</pubDate>
+      
+      <guid>https://sentout.github.io/tags/%E8%AF%97%E6%AD%8C/</guid>
       <description></description>
     </item>
     
@@ -22,6 +49,15 @@
       <pubDate>Wed, 05 Jul 2023 16:05:09 +0800</pubDate>
       
       <guid>https://sentout.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>js</title>
+      <link>https://sentout.github.io/tags/js/</link>
+      <pubDate>Wed, 05 Jul 2023 16:05:09 +0800</pubDate>
+      
+      <guid>https://sentout.github.io/tags/js/</guid>
       <description></description>
     </item>
     
