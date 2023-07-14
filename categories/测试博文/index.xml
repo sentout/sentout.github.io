@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>测试博文 on wp&#39;Blog</title>
-    <link>https://sentout.github.io/categories/%E6%B5%8B%E8%AF%95%E5%8D%9A%E6%96%87/</link>
+    <link>/categories/%E6%B5%8B%E8%AF%95%E5%8D%9A%E6%96%87/</link>
     <description>Recent content in 测试博文 on wp&#39;Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Jul 2023 14:14:37 +0800</lastBuildDate><atom:link href="https://sentout.github.io/categories/%E6%B5%8B%E8%AF%95%E5%8D%9A%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jul 2023 14:14:37 +0800</lastBuildDate><atom:link href="/categories/%E6%B5%8B%E8%AF%95%E5%8D%9A%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>代码段高亮显示</title>
-      <link>https://sentout.github.io/posts/second/</link>
+      <link>/posts/second/</link>
       <pubDate>Wed, 05 Jul 2023 16:05:09 +0800</pubDate>
       
-      <guid>https://sentout.github.io/posts/second/</guid>
+      <guid>/posts/second/</guid>
       <description>一级标题 二级标题 行号 1 2 3 fn main(){println!(&amp;#34;Hello, world!&amp;#34;);} 1 2 3 4</description>
     </item>
     
     <item>
       <title>测试文章</title>
-      <link>https://sentout.github.io/posts/%E6%B5%8B%E8%AF%95/</link>
+      <link>/posts/%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Fri, 07 Jul 2023 14:14:37 +0800</pubDate>
       
-      <guid>https://sentout.github.io/posts/%E6%B5%8B%E8%AF%95/</guid>
+      <guid>/posts/%E6%B5%8B%E8%AF%95/</guid>
       <description>This is a heading one This is a heading two This is a paragraph. 我是一篇测试</description>
     </item>
     
