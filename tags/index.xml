@@ -2,98 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on wp&#39;Blog</title>
-    <link>/tags/</link>
+    <link>https://sentout.github.io/tags/</link>
     <description>Recent content in Tags on wp&#39;Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Jul 2023 14:40:25 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>htm</title>
-      <link>/tags/htm/</link>
-      <pubDate>Fri, 14 Jul 2023 14:40:25 +0800</pubDate>
-      
-      <guid>/tags/htm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>/tags/hugo/</link>
-      <pubDate>Fri, 14 Jul 2023 14:40:25 +0800</pubDate>
-      
-      <guid>/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 14 Jul 2023 14:40:25 +0800</lastBuildDate><atom:link href="https://sentout.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo建站</title>
-      <link>/tags/hugo%E5%BB%BA%E7%AB%99/</link>
+      <link>https://sentout.github.io/tags/hugo%E5%BB%BA%E7%AB%99/</link>
       <pubDate>Fri, 14 Jul 2023 14:40:25 +0800</pubDate>
       
-      <guid>/tags/hugo%E5%BB%BA%E7%AB%99/</guid>
+      <guid>https://sentout.github.io/tags/hugo%E5%BB%BA%E7%AB%99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo搭建博客</title>
-      <link>/tags/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://sentout.github.io/tags/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Fri, 14 Jul 2023 14:40:25 +0800</pubDate>
       
-      <guid>/tags/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://sentout.github.io/tags/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>js</title>
-      <link>/tags/js/</link>
+      <title>个人网站</title>
+      <link>https://sentout.github.io/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</link>
       <pubDate>Fri, 14 Jul 2023 14:40:25 +0800</pubDate>
       
-      <guid>/tags/js/</guid>
+      <guid>https://sentout.github.io/tags/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>四柱八字</title>
-      <link>/tags/%E5%9B%9B%E6%9F%B1%E5%85%AB%E5%AD%97/</link>
+      <link>https://sentout.github.io/tags/%E5%9B%9B%E6%9F%B1%E5%85%AB%E5%AD%97/</link>
       <pubDate>Tue, 11 Jul 2023 21:59:25 +0800</pubDate>
       
-      <guid>/tags/%E5%9B%9B%E6%9F%B1%E5%85%AB%E5%AD%97/</guid>
+      <guid>https://sentout.github.io/tags/%E5%9B%9B%E6%9F%B1%E5%85%AB%E5%AD%97/</guid>
       <description></description>
     </item>
     
     <item>
       <title>四柱案例</title>
-      <link>/tags/%E5%9B%9B%E6%9F%B1%E6%A1%88%E4%BE%8B/</link>
+      <link>https://sentout.github.io/tags/%E5%9B%9B%E6%9F%B1%E6%A1%88%E4%BE%8B/</link>
       <pubDate>Tue, 11 Jul 2023 21:59:25 +0800</pubDate>
       
-      <guid>/tags/%E5%9B%9B%E6%9F%B1%E6%A1%88%E4%BE%8B/</guid>
+      <guid>https://sentout.github.io/tags/%E5%9B%9B%E6%9F%B1%E6%A1%88%E4%BE%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>宋辞</title>
-      <link>/tags/%E5%AE%8B%E8%BE%9E/</link>
+      <link>https://sentout.github.io/tags/%E5%AE%8B%E8%BE%9E/</link>
       <pubDate>Tue, 11 Jul 2023 21:16:25 +0800</pubDate>
       
-      <guid>/tags/%E5%AE%8B%E8%BE%9E/</guid>
+      <guid>https://sentout.github.io/tags/%E5%AE%8B%E8%BE%9E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>诗歌</title>
-      <link>/tags/%E8%AF%97%E6%AD%8C/</link>
+      <link>https://sentout.github.io/tags/%E8%AF%97%E6%AD%8C/</link>
       <pubDate>Tue, 11 Jul 2023 21:16:25 +0800</pubDate>
       
-      <guid>/tags/%E8%AF%97%E6%AD%8C/</guid>
+      <guid>https://sentout.github.io/tags/%E8%AF%97%E6%AD%8C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>/tags/html/</link>
+      <link>https://sentout.github.io/tags/html/</link>
       <pubDate>Wed, 05 Jul 2023 16:05:09 +0800</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>https://sentout.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>js</title>
+      <link>https://sentout.github.io/tags/js/</link>
+      <pubDate>Wed, 05 Jul 2023 16:05:09 +0800</pubDate>
+      
+      <guid>https://sentout.github.io/tags/js/</guid>
       <description></description>
     </item>
     
