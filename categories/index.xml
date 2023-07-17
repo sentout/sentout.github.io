@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on wp&#39;Blog</title>
-    <link>/categories/</link>
+    <link>https://sentout.github.io/categories/</link>
     <description>Recent content in Categories on wp&#39;Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Jul 2023 21:40:37 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 21:40:37 +0800</lastBuildDate><atom:link href="https://sentout.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IT&amp;计算机&amp;编程</title>
-      <link>/categories/it%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B/</link>
+      <link>https://sentout.github.io/categories/it%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B/</link>
       <pubDate>Fri, 14 Jul 2023 21:40:37 +0800</pubDate>
       
-      <guid>/categories/it%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B/</guid>
+      <guid>https://sentout.github.io/categories/it%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>命理玄学</title>
-      <link>/categories/%E5%91%BD%E7%90%86%E7%8E%84%E5%AD%A6/</link>
+      <link>https://sentout.github.io/categories/%E5%91%BD%E7%90%86%E7%8E%84%E5%AD%A6/</link>
       <pubDate>Tue, 11 Jul 2023 21:59:25 +0800</pubDate>
       
-      <guid>/categories/%E5%91%BD%E7%90%86%E7%8E%84%E5%AD%A6/</guid>
+      <guid>https://sentout.github.io/categories/%E5%91%BD%E7%90%86%E7%8E%84%E5%AD%A6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>诗词歌赋</title>
-      <link>/categories/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</link>
+      <link>https://sentout.github.io/categories/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</link>
       <pubDate>Tue, 11 Jul 2023 21:16:25 +0800</pubDate>
       
-      <guid>/categories/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</guid>
+      <guid>https://sentout.github.io/categories/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</guid>
       <description></description>
     </item>
     
