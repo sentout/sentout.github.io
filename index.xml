@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>wp&#39;Blog</title>
-    <link>/</link>
+    <link>https://sentout.github.io/</link>
     <description>Recent content on wp&#39;Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Jul 2023 15:20:05 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jul 2023 15:20:05 +0800</lastBuildDate><atom:link href="https://sentout.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>开博辞</title>
-      <link>/posts/%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%B2%81%E6%9C%88%E5%89%91%E5%AE%A2/</link>
+      <link>https://sentout.github.io/posts/%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%B2%81%E6%9C%88%E5%89%91%E5%AE%A2/</link>
       <pubDate>Tue, 11 Jul 2023 21:16:25 +0800</pubDate>
       
-      <guid>/posts/%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%B2%81%E6%9C%88%E5%89%91%E5%AE%A2/</guid>
+      <guid>https://sentout.github.io/posts/%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%B2%81%E6%9C%88%E5%89%91%E5%AE%A2/</guid>
       <description>临江仙·岁月剑客 红尘俗语三千事，莫非富贵</description>
     </item>
     
     <item>
       <title>简单交易流程</title>
-      <link>/posts/%E7%AE%80%E5%8D%95%E4%BA%A4%E6%98%93%E6%B5%81%E7%A8%8B/</link>
+      <link>https://sentout.github.io/posts/%E7%AE%80%E5%8D%95%E4%BA%A4%E6%98%93%E6%B5%81%E7%A8%8B/</link>
       <pubDate>Mon, 17 Jul 2023 15:20:05 +0800</pubDate>
       
-      <guid>/posts/%E7%AE%80%E5%8D%95%E4%BA%A4%E6%98%93%E6%B5%81%E7%A8%8B/</guid>
+      <guid>https://sentout.github.io/posts/%E7%AE%80%E5%8D%95%E4%BA%A4%E6%98%93%E6%B5%81%E7%A8%8B/</guid>
       <description>00.交易计划 在交易前，完整梳理一遍列表</description>
     </item>
     
     <item>
       <title>markdown 简单使用</title>
-      <link>/posts/markdown%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</link>
+      <link>https://sentout.github.io/posts/markdown%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</link>
       <pubDate>Fri, 14 Jul 2023 21:40:37 +0800</pubDate>
       
-      <guid>/posts/markdown%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</guid>
+      <guid>https://sentout.github.io/posts/markdown%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</guid>
       <description>01.引用 a) 区块 语法： &amp;gt; 区块引用 markdown 语法 输</description>
     </item>
     
     <item>
       <title>Hugo&#43;Github 搭建免费的个人博客</title>
-      <link>/posts/hugo&#43;github-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://sentout.github.io/posts/hugo&#43;github-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Fri, 14 Jul 2023 14:40:25 +0800</pubDate>
       
-      <guid>/posts/hugo&#43;github-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://sentout.github.io/posts/hugo&#43;github-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description>01.建站示例教程 youtube 视频建站教程 https://www.youtube.com/watch?v=hjD9jTi_DQ4&amp;amp;list=PLeiDFxcsdhUrzkK5Jg9IZyiTsIMvXxKZP https://youtube.com/playlist?list=PLeiDFxcsdhUrzkK5Jg9IZyiTsIMvXxKZP PS</description>
     </item>
     
     <item>
       <title>李玟八字时柱反推</title>
-      <link>/posts/%E6%9D%8E%E7%8E%9F%E5%85%AB%E5%AD%97/</link>
+      <link>https://sentout.github.io/posts/%E6%9D%8E%E7%8E%9F%E5%85%AB%E5%AD%97/</link>
       <pubDate>Tue, 11 Jul 2023 21:59:25 +0800</pubDate>
       
-      <guid>/posts/%E6%9D%8E%E7%8E%9F%E5%85%AB%E5%AD%97/</guid>
+      <guid>https://sentout.github.io/posts/%E6%9D%8E%E7%8E%9F%E5%85%AB%E5%AD%97/</guid>
       <description>坤造：甲寅 丁丑 癸亥 癸亥 大运：壬申 流年：癸</description>
     </item>
     
     <item>
       <title>幻途</title>
-      <link>/posts/first/</link>
+      <link>https://sentout.github.io/posts/first/</link>
       <pubDate>Wed, 05 Jul 2023 16:05:09 +0800</pubDate>
       
-      <guid>/posts/first/</guid>
+      <guid>https://sentout.github.io/posts/first/</guid>
       <description>无故平地起波澜，前路迢迢道道弯。 日月星辰</description>
     </item>
     
