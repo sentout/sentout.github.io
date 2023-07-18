@@ -6,7 +6,16 @@
     <description>Recent content in IT&amp;计算机&amp;编程 on wp&#39;Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Jul 2023 21:40:37 +0800</lastBuildDate><atom:link href="https://sentout.github.io/categories/it%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jul 2023 10:21:05 +1200</lastBuildDate><atom:link href="https://sentout.github.io/categories/it%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开源潘多拉(pandora)实现 chatGPT 的本地化免费应用</title>
+      <link>https://sentout.github.io/posts/%E5%BC%80%E6%BA%90%E6%BD%98%E5%A4%9A%E6%8B%89pandora%E5%AE%9E%E7%8E%B0chatgpt%E6%9C%AC%E5%9C%B0%E5%8C%96%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Tue, 18 Jul 2023 10:21:05 +1200</pubDate>
+      
+      <guid>https://sentout.github.io/posts/%E5%BC%80%E6%BA%90%E6%BD%98%E5%A4%9A%E6%8B%89pandora%E5%AE%9E%E7%8E%B0chatgpt%E6%9C%AC%E5%9C%B0%E5%8C%96%E5%BA%94%E7%94%A8/</guid>
+      <description>00.准备工作 下载安装 Docker Docker: https://www.docker.com/ 打开 Dock</description>
+    </item>
+    
     <item>
       <title>markdown 简单使用</title>
       <link>https://sentout.github.io/posts/markdown%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</link>
