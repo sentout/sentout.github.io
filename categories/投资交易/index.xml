@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>投资交易 on wp&#39;Blog</title>
-    <link>/categories/%E6%8A%95%E8%B5%84%E4%BA%A4%E6%98%93/</link>
+    <link>https://sentout.github.io/categories/%E6%8A%95%E8%B5%84%E4%BA%A4%E6%98%93/</link>
     <description>Recent content in 投资交易 on wp&#39;Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Jul 2023 11:33:05 +0800</lastBuildDate><atom:link href="/categories/%E6%8A%95%E8%B5%84%E4%BA%A4%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2023 11:33:05 +0800</lastBuildDate><atom:link href="https://sentout.github.io/categories/%E6%8A%95%E8%B5%84%E4%BA%A4%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>量化交易研究</title>
-      <link>/posts/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%A0%94%E7%A9%B6/</link>
+      <link>https://sentout.github.io/posts/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%A0%94%E7%A9%B6/</link>
       <pubDate>Thu, 20 Jul 2023 11:33:05 +0800</pubDate>
       
-      <guid>/posts/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%A0%94%E7%A9%B6/</guid>
+      <guid>https://sentout.github.io/posts/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%A0%94%E7%A9%B6/</guid>
       <description>00.初识量化交易 量化交易是利用数学模型</description>
     </item>
     
     <item>
       <title>交易逻辑思考</title>
-      <link>/posts/%E4%BA%A4%E6%98%93%E9%80%BB%E8%BE%91%E6%80%9D%E8%80%83/</link>
+      <link>https://sentout.github.io/posts/%E4%BA%A4%E6%98%93%E9%80%BB%E8%BE%91%E6%80%9D%E8%80%83/</link>
       <pubDate>Mon, 17 Jul 2023 22:22:05 +0800</pubDate>
       
-      <guid>/posts/%E4%BA%A4%E6%98%93%E9%80%BB%E8%BE%91%E6%80%9D%E8%80%83/</guid>
+      <guid>https://sentout.github.io/posts/%E4%BA%A4%E6%98%93%E9%80%BB%E8%BE%91%E6%80%9D%E8%80%83/</guid>
       <description>00.趋势走好和周期共振 趋势走好：破线、</description>
     </item>
     
     <item>
       <title>简单交易流程</title>
-      <link>/posts/%E7%AE%80%E5%8D%95%E4%BA%A4%E6%98%93%E6%B5%81%E7%A8%8B/</link>
+      <link>https://sentout.github.io/posts/%E7%AE%80%E5%8D%95%E4%BA%A4%E6%98%93%E6%B5%81%E7%A8%8B/</link>
       <pubDate>Mon, 17 Jul 2023 15:20:05 +0800</pubDate>
       
-      <guid>/posts/%E7%AE%80%E5%8D%95%E4%BA%A4%E6%98%93%E6%B5%81%E7%A8%8B/</guid>
+      <guid>https://sentout.github.io/posts/%E7%AE%80%E5%8D%95%E4%BA%A4%E6%98%93%E6%B5%81%E7%A8%8B/</guid>
       <description>00.交易计划 在交易前，完整梳理一遍列表</description>
     </item>
     
