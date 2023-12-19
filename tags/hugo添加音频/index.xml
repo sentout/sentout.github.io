@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>hugo添加音频 on wp&#39;Blog</title>
-    <link>/tags/hugo%E6%B7%BB%E5%8A%A0%E9%9F%B3%E9%A2%91/</link>
+    <link>https://sentout.github.io/tags/hugo%E6%B7%BB%E5%8A%A0%E9%9F%B3%E9%A2%91/</link>
     <description>Recent content in hugo添加音频 on wp&#39;Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Jul 2023 10:14:37 +0800</lastBuildDate><atom:link href="/tags/hugo%E6%B7%BB%E5%8A%A0%E9%9F%B3%E9%A2%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jul 2023 10:14:37 +0800</lastBuildDate><atom:link href="https://sentout.github.io/tags/hugo%E6%B7%BB%E5%8A%A0%E9%9F%B3%E9%A2%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo网站添加音频或语音</title>
-      <link>/posts/hugo%E7%BD%91%E7%AB%99%E6%B7%BB%E5%8A%A0%E9%9F%B3%E9%A2%91%E5%92%8C%E8%AF%AD%E9%9F%B3/</link>
+      <link>https://sentout.github.io/posts/hugo%E7%BD%91%E7%AB%99%E6%B7%BB%E5%8A%A0%E9%9F%B3%E9%A2%91%E5%92%8C%E8%AF%AD%E9%9F%B3/</link>
       <pubDate>Sat, 22 Jul 2023 10:14:37 +0800</pubDate>
       
-      <guid>/posts/hugo%E7%BD%91%E7%AB%99%E6%B7%BB%E5%8A%A0%E9%9F%B3%E9%A2%91%E5%92%8C%E8%AF%AD%E9%9F%B3/</guid>
+      <guid>https://sentout.github.io/posts/hugo%E7%BD%91%E7%AB%99%E6%B7%BB%E5%8A%A0%E9%9F%B3%E9%A2%91%E5%92%8C%E8%AF%AD%E9%9F%B3/</guid>
       <description>your audio caption... 步骤 1、主题模板添加 audio.html layouts/shortcodes/audio.html 2、添加如</description>
     </item>
     
