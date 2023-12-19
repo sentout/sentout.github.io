@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>宋辞 on wp&#39;Blog</title>
-    <link>https://sentout.github.io/tags/%E5%AE%8B%E8%BE%9E/</link>
+    <link>/tags/%E5%AE%8B%E8%BE%9E/</link>
     <description>Recent content in 宋辞 on wp&#39;Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jul 2023 21:16:25 +0800</lastBuildDate><atom:link href="https://sentout.github.io/tags/%E5%AE%8B%E8%BE%9E/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jul 2023 21:16:25 +0800</lastBuildDate><atom:link href="/tags/%E5%AE%8B%E8%BE%9E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>开博辞</title>
-      <link>https://sentout.github.io/posts/%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%B2%81%E6%9C%88%E5%89%91%E5%AE%A2/</link>
+      <link>/posts/%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%B2%81%E6%9C%88%E5%89%91%E5%AE%A2/</link>
       <pubDate>Tue, 11 Jul 2023 21:16:25 +0800</pubDate>
       
-      <guid>https://sentout.github.io/posts/%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%B2%81%E6%9C%88%E5%89%91%E5%AE%A2/</guid>
+      <guid>/posts/%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%B2%81%E6%9C%88%E5%89%91%E5%AE%A2/</guid>
       <description>临江仙·岁月剑客 红尘俗语三千事，莫非富贵</description>
     </item>
     
