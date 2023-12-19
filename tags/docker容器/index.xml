@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>docker容器 on wp&#39;Blog</title>
+    <link>https://sentout.github.io/tags/docker%E5%AE%B9%E5%99%A8/</link>
+    <description>Recent content in docker容器 on wp&#39;Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Dec 2023 10:45:20 +0800</lastBuildDate><atom:link href="https://sentout.github.io/tags/docker%E5%AE%B9%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>免费vps和docker容器</title>
+      <link>https://sentout.github.io/posts/%E5%85%8D%E8%B4%B9vps%E5%92%8Cdocker%E5%AE%B9%E5%99%A8/</link>
+      <pubDate>Tue, 19 Dec 2023 10:45:20 +0800</pubDate>
+      
+      <guid>https://sentout.github.io/posts/%E5%85%8D%E8%B4%B9vps%E5%92%8Cdocker%E5%AE%B9%E5%99%A8/</guid>
+      <description>0、vps和实用工具 https://dh.kejilion.pro/ 1、https:/</description>
+    </item>
+    
+  </channel>
+</rss>
