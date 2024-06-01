@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sentout.github.io/posts/%E5%8F%88%E7%83%A6%E5%8F%88%E9%97%B2%E4%BA%BA%E6%80%A7%E6%9C%80%E9%9A%BE%E4%BC%BA%E5%80%99/</loc>
-    <lastmod>2024-06-01T21:06:20+08:00</lastmod>
-  </url><url>
     <loc>https://sentout.github.io/posts/%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%B2%81%E6%9C%88%E5%89%91%E5%AE%A2/</loc>
     <lastmod>2023-07-11T21:16:25+08:00</lastmod>
   </url><url>
@@ -21,6 +18,9 @@
     <lastmod>2024-06-01T21:06:20+08:00</lastmod>
   </url><url>
     <loc>https://sentout.github.io/tags/%E4%BA%BA%E6%80%A7/</loc>
+    <lastmod>2024-06-01T21:06:20+08:00</lastmod>
+  </url><url>
+    <loc>https://sentout.github.io/posts/%E5%8F%88%E7%83%A6%E5%8F%88%E9%97%B2%E4%BA%BA%E6%80%A7%E6%9C%80%E9%9A%BE%E4%BC%BA%E5%80%99/</loc>
     <lastmod>2024-06-01T21:06:20+08:00</lastmod>
   </url><url>
     <loc>https://sentout.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
